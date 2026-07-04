@@ -4,7 +4,8 @@ A lightweight full-stack uptime monitoring application built with **FastAPI**, *
 
 ---
 
-![App Screenshot](images/screenshot(95).png)
+![App Screenshot](images/uptime.png)
+
 
 ## Features
 
